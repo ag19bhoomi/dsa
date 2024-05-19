@@ -1,4 +1,4 @@
-### Data Structures and Algorithms in C++
+# Data Structures and Algorithms in C++
 
 This repository contains my solutions and practice problems for various Data Structures and Algorithms (DSA) implemented in C++. The purpose of this repository is to practice and enhance my understanding of DSA concepts.
 
